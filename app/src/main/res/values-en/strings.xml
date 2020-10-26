@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Switches</string>
+    <string name="text_translation">Mobile application is entering the international market,
+        it needs localization for different languages</string>
+    <string name="language_button">Сhange language</string>
+    <string name="theme_button">Сhange theme</string>
+    <string-array name="languageSpinner">
+        <item>Russian</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="themeSpinner">
+        <item>Black</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
